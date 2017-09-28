@@ -21,7 +21,6 @@ public class WordHide {
       System.out.println("Unable to locate file");
     }
     // Step One: Read in and display the chosen word
-    String word = scanner.nextLine();
 
     // Step Two: Use substring and charAt to extract parts of the word
 
