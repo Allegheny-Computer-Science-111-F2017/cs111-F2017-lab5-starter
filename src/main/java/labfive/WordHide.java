@@ -26,7 +26,7 @@ public class WordHide {
 
     // Step Three: Assemble the word by declaring ten new String variables
 
-    // Step Four: Use ten println statements to display the 20 x 20 grid
+    // Step Four: Use twenty println statements to display the 20 x 20 grid
 
     // Step Five: Display a final thankyou message
 
